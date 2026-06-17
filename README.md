@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F73A3A&center=true&vCenter=true&random=true&width=435&lines=Hi+there+is+tuagfey+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%AB%B6" alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**tuan4743/tuan4743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://github-stats-extended.vercel.app/api?username=tuan4743&show_icons=true&include_all_commits=true&theme=aura" alt="visitor counter" style="width: 50%;">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=tuan4743&langs_count=5&theme=aura" alt="language used" style="width: 38%;">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   Why is it not displayed in the center? 🖐️😭🖐️
+</p>
+
+---
+
+<h1 align="center">About myself 👀</h1>
+
+<p align="center">
+   I am a college student from China 😎 <br>
+   Currently studying HPC-AI 💪 <br>
+   I want to earn a lot of money 🤑 <br>
+   Thanks for your visit 🌸 <br>
+</p>
+
+<p>
+  I am studying programming languages, including Python🐍, C✔️, C++➕, Java☕, JavaScript🦶, and HTML🕸️, as well as CUDA kernels🤦‍♂️.
+  I am still studying parallel optimization📚 (parallel methods such as OpenMP, MPI, and AVX2) and low-level granularity adjustments🧬. 
+  In the future👾, I will continue to study CUDA😍 and more advanced parallel techniques😘.
+  However, I hope to become an artificial intelligence engineer🤖🤖🤖, which is truly very cool😎🫳🆒.
+</p>
