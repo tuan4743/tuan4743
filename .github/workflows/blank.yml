@@ -11,16 +11,16 @@ jobs:
     permissions:
       contents: write
     steps:
-     - name: Debug - Check if secret exists
-       run: |
+      - name: Debug - Check if secret exists
+        run: |
           if [ -n "${{ secrets.METRICS_TOKEN }}" ]; then
             echo "Token found! First 4 characters: ${METRICS_TOKEN:0:4}..."
           else
             echo "::error::Secret METRICS_TOKEN is not set!"
             exit 1
-           fi
-         env:
-           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          fi
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
            
       - uses: lowlighter/metrics@latest
         with:
