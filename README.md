@@ -5,6 +5,9 @@
 </div>
 
 ---
+<h3 align="center">View My Activities 😎</h3>
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://github-stats-extended.vercel.app/api?username=tuan4743&show_icons=true&include_all_commits=true&theme=aura" alt="visitor counter" style="width: 50%;">
@@ -12,12 +15,12 @@
 </div>
 
 <p align="center">
-   Why is it not displayed in the center? 🖐️😭🖐️
+   (Why is it not displayed in the center? 🖐️😭🖐️)
 </p>
 
 ---
 
-<h1 align="center">About myself 👀</h1>
+<h3 align="center">About myself 👀</h3>
 
 <p align="center">
    I am a college student from China 😎 <br>
