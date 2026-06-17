@@ -12,10 +12,11 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://github-stats-extended.vercel.app/api?username=tuan4743&show_icons=true&include_all_commits=true&theme=aura" alt="visitor counter" style="width: 50%;">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=tuan4743&langs_count=5&theme=aura" alt="language used" style="width: 38%;">
+    <img src="/Crab.gif" alt="crab" style="width: 100%;">
 </div>
 
 <p align="center">
-   (Why is it not displayed in the center? 🖐️😭🖐️)
+   (Why is it not displayed in the center? I can only add one crab to fill the blank.🖐️😭🖐️)
 </p>
 
 ---
